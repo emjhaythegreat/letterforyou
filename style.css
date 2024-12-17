@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fae1dd;
+  }
+
+  .envelope {
+    position: center;
+    width: 300px;
+    height: 200px;
+    background-color: #f08080;
+  }
+
+  .card {
+    position: center;
+    text-align: center;
+    background-color: #eae2b7;
+    width: 270px;
+    height: 170px;
+    top: 20px;
+    left: 85px;
+    box-shadow: -5px -5px 100px rgba(0, 0, 0, 0.4);
+  }
+
+  .text {
+    font-family: "Sans-serif", Arial, Helvetica, sans-serif, serif;
+    text-align: relative;
+    line-height: 5px;
+    word-spacing: 1px;
+    top: 5px;
+    left: 85px;
+    color: black;
+  }
